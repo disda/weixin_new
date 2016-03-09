@@ -1,0 +1,17 @@
+{
+    "name": "weixin.liu-xiao-guo",
+    "description": "description of weixin",
+    "architecture": "@CLICK_ARCH@",
+    "title": "weixin",
+    "hooks": {
+        "weixin": {
+            "apparmor": "weixin/weixin.apparmor",
+            "desktop":  "weixin/weixin.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

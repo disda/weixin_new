@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=weixin
+Exec=weixin
+Icon=weixin/weixin.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
